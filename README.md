@@ -26,7 +26,7 @@ TODO
 # lépések
 1. lépés: Felhasználói felület kialakítása (HTML, Bootstrap) KÉSZ
 2. lépés: Új játék indítása: Véletlen szám legenerálása KÉSZ
-3. lépés: Új játék indítása: felhasználói interfész alapállapotba hozása (korábbi tippek törlése, input mező tartalmának törlése)
+3. lépés: Új játék indítása: felhasználói interfész alapállapotba hozása (korábbi tippek törlése, input mező tartalmának törlése) KÉSZ
 4. lépés: Tipp beküldésének eseménykezelése: Kattintás után alert-el írd ki, hogy "klikk"
 5. lépés: Beküldött tipp kinyerése az eseménykezelőben az input mezőből.
 6. lépés Hibás tipp formátum esetén hibaüzenet. Ha nem tudsz hibás bemenetet megadni, mauálisan ellenőrízd, hogy tényleg csak 1 és 100 között adhatsz meg számokat.
